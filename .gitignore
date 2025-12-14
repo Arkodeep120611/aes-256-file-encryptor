@@ -1,0 +1,12 @@
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+
+# Secret keys
+secret.key
+
+# OS files
+.DS_Store
+Thumbs.db
